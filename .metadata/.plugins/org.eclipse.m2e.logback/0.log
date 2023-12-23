@@ -1,0 +1,21 @@
+2023-12-23 22:57:40,818 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-23 22:57:58,740 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ma.emsi:Eureka-Server:1 @ C:\Users\Ihssane\Documents\Blog\Blog\Eureka-Server\pom.xml.
+2023-12-23 22:58:00,992 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-23 22:58:01,015 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-23 22:58:01,021 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Ihssane\Documents\Blog\Blog\Eureka-Server\src\test\resources
+2023-12-23 22:58:01,968 [Worker-9: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ma.emsi:Eureka-Server:1 @ C:\Users\Ihssane\Documents\Blog\Blog\Eureka-Server\pom.xml.
+2023-12-23 22:58:03,795 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-23 22:58:03,811 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-23 22:58:03,815 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Ihssane\Documents\Blog\Blog\Eureka-Server\src\test\resources
+2023-12-23 22:58:12,343 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ma.emsi:Utilisateur:1 @ C:\Users\Ihssane\Documents\Blog\Blog\Utilisateur\pom.xml.
+2023-12-23 22:58:13,362 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ma.emsi:Utilisateur:1 @ C:\Users\Ihssane\Documents\Blog\Blog\Utilisateur\pom.xml.
+2023-12-23 22:58:15,919 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-23 22:58:15,943 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-23 22:58:15,949 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Ihssane\Documents\Blog\Blog\Utilisateur\src\test\resources
+2023-12-23 22:58:17,049 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-23 22:58:17,058 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-23 22:58:17,062 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Ihssane\Documents\Blog\Blog\Utilisateur\src\test\resources
+2023-12-23 22:58:17,730 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ma.emsi:Utilisateur:1 @ C:\Users\Ihssane\Documents\Blog\Blog\Utilisateur\pom.xml.
+2023-12-23 22:58:21,395 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-23 22:58:21,397 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-23 22:58:21,450 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Ihssane\Documents\Blog\Blog\Utilisateur\src\test\resources
