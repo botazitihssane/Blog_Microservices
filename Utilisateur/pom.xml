@@ -110,7 +110,7 @@
 			</plugin>
 		</plugins>
 		<finalName>
-			client-app
+			utilisateur-app
 		</finalName>
 	</build>
 </project>
